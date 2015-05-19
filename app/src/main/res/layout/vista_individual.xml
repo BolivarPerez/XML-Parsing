@@ -1,0 +1,78 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    tools:context="com.example.boli.xml_parsing.vista_individual">
+
+    <TextView
+        android:layout_marginTop="15dp"
+        android:paddingBottom="10dp"
+        android:paddingLeft="12dp"
+        android:id="@+id/n_arete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/arete"
+        android:textColor="#ff3b3dff"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_marginTop="5dp"
+        android:paddingBottom="10dp"
+        android:paddingLeft="12dp"
+        android:id="@+id/f_nacimiento"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/nacio"
+        android:textColor="#ff3b3dff"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_marginTop="5dp"
+        android:paddingBottom="10dp"
+        android:paddingLeft="12dp"
+        android:id="@+id/nombre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/nomb"
+        android:textColor="#ff3b3dff"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_marginTop="5dp"
+        android:paddingBottom="10dp"
+        android:paddingLeft="12dp"
+        android:id="@+id/sexo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sex"
+        android:textColor="#ff3b3dff"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_marginTop="5dp"
+        android:paddingBottom="10dp"
+        android:paddingLeft="12dp"
+        android:id="@+id/f_ges"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/gesta"
+        android:textColor="#ff3b3dff"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_marginTop="5dp"
+        android:paddingBottom="5dp"
+        android:paddingLeft="12dp"
+        android:id="@+id/f_par"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/pario"
+        android:textColor="#ff3b3dff"
+        android:textStyle="bold"/>
+
+
+
+
+</LinearLayout>

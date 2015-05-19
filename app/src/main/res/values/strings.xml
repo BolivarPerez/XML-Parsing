@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">XML-Parsing</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_lista_usuarios">Lista de Registros</string>
+    <string name="title_activity_vista_individual">Vista Individual</string>
+
+    <string name="arete">No. Arete</string>
+    <string name="nacio">F.Nac</string>
+    <string name="nomb">Nombre</string>
+    <string name="sex">Sexo</string>
+    <string name="gesta">F.Ges</string>
+    <string name="pario">F.Par</string>
+
+</resources>
